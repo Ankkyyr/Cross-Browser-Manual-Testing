@@ -1,0 +1,8 @@
+Feature / Module,Chrome (v114+),Firefox (v113+),Edge (v113+),Safari (v16+)
+User Registration,Pass,Pass,Pass,Pass
+Login Authentication,Pass,Pass,Pass,Pass
+Product Grid Rendering,Pass,Pass,Pass,Fail (UI Overlap)
+Shopping Cart Dynamic Updates,Pass,Pass,Pass,Pass
+Checkout Workflow,Pass,Pass,Pass,Pass
+Payment Gateway Modal,Pass,Pass,Pass,Pass
+Responsive Navigation Menu,Pass,Pass,Pass,Pass

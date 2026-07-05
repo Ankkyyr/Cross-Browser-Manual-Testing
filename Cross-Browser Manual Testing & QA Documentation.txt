@@ -1,0 +1,8 @@
+Test Case ID,Module,Test Scenario,Environment,Status,Defect ID
+TC-001,Authentication,Verify successful login with valid credentials,Windows/Chrome,Pass,
+TC-002,Authentication,Verify error message for invalid password,macOS/Safari,Pass,
+TC-003,Search,Verify product search by category filter,Windows/Edge,Pass,
+TC-004,Cart,Verify adding multiple different items to cart updates total,macOS/Firefox,Fail,JIRA-402
+TC-005,Checkout,Verify checkout process allows guest checkout,Windows/Chrome,Pass,
+TC-006,Checkout,Verify credit card payment gateway decline message,Windows/Edge,Pass,
+TC-007,UI/UX,Verify product image scaling on mobile viewport,iOS/Safari,Fail,JIRA-405
